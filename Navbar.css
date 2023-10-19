@@ -1,0 +1,40 @@
+.navbar{
+   position: fixed;
+   top:0;
+   width: 100%;
+   height: 50px;
+   padding: 20px;
+   display: flex;
+   justify-self: space-between;
+   background-color: #dcd2d9;
+   border-style: solid ;
+   border-color: rgb(0, 0, 0);
+   border-width: 1px;
+
+}
+.logo{
+    position: fixed;
+    left: 20px;
+    width: 60px;
+}
+
+.login{
+    position: fixed;
+    right: 20px;
+    width: 40px;
+    height: 40px;
+}
+
+.signup{
+    position: fixed;
+    right: 80px;
+    width: 100px;
+    height: 60px;
+}
+.homepage{
+    position: fixed;
+    right: 150px;
+    top: 0.2px;
+    width: 150px;
+    height: 100px;
+}
